@@ -5,4 +5,4 @@ Performed extensive EDA and applied Chi-square and ANOVA tests to identify stati
 
 Addressed multicollinearity using Variance Inflation Factor (VIF) and handled class imbalance via SMOTE to ensure robust model training.
 
-Trained and evaluated a Random Forest classifier, achieving ~77% accuracy and high F1-scores, with precision-recall breakdowns across all classes for detailed performance insights.
+Trained and evaluated a Random Forest classifier, achieving ~87% accuracy and high F1-scores, with precision-recall breakdowns across all classes for detailed performance insights.
